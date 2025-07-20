@@ -19,6 +19,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Ascenda](https://www.ascenda.com/) - [github](https://github.com/Kaligo/) - Loyalty platform
 - [AI Activ](https://aiactiv.io/) - A company of DatVietVAC Group, building an Ads system
 - [Amote](https://apps.shopify.com/amote-checkout) - Ultimate in-cart upsell app to boost AOV
+- [AlphaBatem Labs](https://alphabatem.com/) - Next Generation Trading On Solana
 
 ### B
 
