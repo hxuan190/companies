@@ -11,6 +11,10 @@ Please take a quick gander at the contribution guidelines first. This resource w
 
 If you see anything that is no longer maintained or is not a good fit, please submit a pull request to improve this repository.
 
+
+### \#
+- [200Lab](https://200lab.io/) - Using Go for LMS, CMS, Blog, and Related Services at 200Lab.
+
 ### A
 
 - [Ahamove](https://ahamove.com) - An on-demand delivery Company
@@ -20,6 +24,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [AI Activ](https://aiactiv.io/) - A company of DatVietVAC Group, building an Ads system
 - [Amote](https://apps.shopify.com/amote-checkout) - Ultimate in-cart upsell app to boost AOV
 - [AlphaBatem Labs](https://alphabatem.com/) - Next Generation Trading On Solana
+- [AppotaPay](https://appotapay.com)
 
 ### B
 
@@ -27,13 +32,14 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [BE](https://be.com.vn/) - Booking car app
 - [Ban vien corp](https://banvien.com/) - Outsource
 - [Btaskee](https://www.btaskee.com/) - Home cleaning service
+- [Buymed](https://www.thuocsi.vn/) - A leading medicine e-commerce company in Vietnam, specializing in a large-scale B2B model
+- [Biglead](https://biglead.live)
 
 ### C
 
 - [ChoTot](https://www.chotot.com/) - [github](https://github.com/ChoTotOSS)
 - [CyberAgent, Inc.](https://www.cyberagent.co.jp/en/) - [Hanoi Development Center](https://github.com/CyberAgentHanoiDevCenter) - Use Go to build a wide range of products with multi-million user bases.
-- [CMC global](https://www.cmc.com.vn/)
-
+- [CMC Global](https://www.cmc.com.vn/)
 
 ### D
 
@@ -57,6 +63,7 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 ### G
 
+- [GHTK - giaohangtietkiem.vn](https://giaohangtietkiem.vn) - [Bamboo Firewall](https://github.com/bamboo-firewall), [iGHTK](https://ightk.vn) And a ton of services in Golang
 - [giaohangnhanh.vn](https://ghn.vn) - Micro Services using Go
 - [Grab](https://www.grab.com/) - [github](https://github.com/grab)
 - [Golden Wallet](https://goldenwallet.io/) - [github](https://github.com/goldennetwork) Use Go to build backend services track blockchain transaction and push notifications to mobile wallet.
@@ -65,15 +72,20 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Global Fashion Group](https://global-fashion-group.com) - builds and maintains the technology that drives high traffic ecommerce platforms at GFG
 - [GOD Group](https://www.godgroup.com/) - Use to develop E-commerce system
 - [Geniebook](http://geniebook.com) - a Singaporean EdTech company
+- [G-Group](https://g-group.vn)
+- [GapoWork](https://gapowork.com)
 
 ### H
 
 - [Haposoft](https://haposoft.com)
 - [HBLAB](https://hblab.vn)
+- [Hybrid Technologies](https://hybrid-technologies.co.jp)
+- [Highlands Coffee](https://highlandscoffee.com.vn)
+
 
 ### I
 
-- [IGHTK](https://i.ghtk.vn/) - Uses Go to build backend services for application tracking, social network between end-users.
+- [i-com](https://i-com.vn)
 
 ### J
 
@@ -81,6 +93,8 @@ If you see anything that is no longer maintained or is not a good fit, please su
 
 - [Knorex](https://www.knorex.com/)
 - [Kyber Network](https://kyber.network/) - [github](https://github.com/KyberNetwork) - Uses Go to build backend services and to interact with blockchain
+- [Kaopiz Software](https://kaopiz.com)
+- [KiotViet](https://kiotviet.vn)
 
 ### L
 
@@ -93,17 +107,22 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Miss Moneypenny Technologies](https://www.walletstudio.com/en/life-at-miss-moneypenny) - [github](https://github.com/missmp) - Using Go to build our SaaS [Wallet Studio](https://www.walletstudio.com) that connects companies to Apple / Google Wallet. 
 - [MaNaDr Mobile Health VietNam](http://manadr.com) - [github](https://github.com/mobile-health)-  Most of our backend services are developed by Golang.
 - [Money Forward Vietnam](https://careers.moneyforward.vn/)
+- [MBBank](https://www.mbbank.com.vn)
+- [MISA](https://www.misa.vn)
+- [Momo](https://www.momo.vn)
 
 ### N
 
 - [Nexty Platform](https://nexty.io) - Using Go to build a new consensus protocol blockchain based on [go-ethereum](https://github.com/ethereum/go-ethereum)
 - [Nimbus](https://getnimbus.io/) - Using Go to build realtime onchain data indexer and portfolio tracker in Web3.
+- [NCC](https://ncc.asia/)
 
 ### O
 
 - [Orient Software](https://www.orientsoftware.com)
 - [OpenCommerce Group - Shopbase](https://www.opencommercegroup.com/vi) - Use Go to develop microservices for its large-scale e-commerce platform
 - [OplaCRM](https://app.oplacrm.com/) - CRM
+- [One Mount](https://onemount.com)
 
 ### P
 - [Ponos tech](https://ponos-tech.com/) - HRM
@@ -124,17 +143,21 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [Subiz](https://subiz.com/) - [github](https://github.com/subiz)
 - [SSI Securities Corporation](https://www.ssi.com.vn/en)
 - [SkyMavis](https://skymavis.com) - introducing the world to crypto through nostalgic games
+- [Sun*](https://sun-asterisk.vn)
+- [Saladin](https://www.saladin.vn) - Utilizing Go to manage extensive requests for an insurance platform
 
 ### T
 
 - [TablePlus](https://tableplus.com) - Build backend for DBMS
 - [Techmaster Vietnam](https://techmaster.vn) - Uses Go develop microservices back end for Elearning system, web compiler box.
+- [Textedge](https://www.textedge.net/) - Utilizing Go, Textedge develop and maintain scalable microservices to support the backend architecture of SaaS platforms. 
 - [TMA Solutions](https://www.tmasolutions.com/) - Uses Go to develop microservices/cloud backend system for IoT and banking's e-wallet.
 - [Viction](https://www.viction.xyz) - Blockchain L1 written by Go. Many thanks to [go ethereum](https://github.com/ethereum/go-ethereum).
 - [TrustingSocial](https://trustingsocial.com/)
 - [Techcom Securities](https://tcbs.com.vn) - [Github](https://github.com/techcomsecurities) - Uses Go to build microservices and crypto part of mobile app
 - [Thitruongsi](https://thitruongsi.com/) -  Uses go to develop microservices backend for Wholesale Ecommerce Platform.
 - [Trustz App](https://apps.shopify.com/trustz) - Build Trust & Boost Sales: Payment Badges, Sticky Add To Cart, Stock Countdown, Countdown Timer, 30+
+- [Tinkeral](https://tinkeral.com)
 
 ### U
 
@@ -145,13 +168,19 @@ If you see anything that is no longer maintained or is not a good fit, please su
 - [VNEXT SOFTWARE](https://vnext.vn) - offshore development service
 - [VieON](https://vieon.vn) - An OTT platform, a company of DatVietVAC Group. Previous name is DZones Hub.
 - [VUS](https://vus.edu.vn/) - Edtech
+- [Viettel Security](https://viettelcybersecurity.com/) - Uses Go for both microservices backend and cross-platform security agents development
+- [Volio Group](https://volio.group)
+- [VNPAY](https://vnpay.vn)
 
 ### W
 
+- [WeeDigital](https://www.weedigital.org/en/technology.html) - Use Golang for server apps and client libraries in biometric digital identity systems.
 - [WeTrust](https://www.wetrust.io/) - Ethereum Blockchain
 - [Wolffun Game](https://www.wolffungame.com/) - Uses Go to develop microservices for the back end of a gaming platform and mobile online games.
 
 ### X
+
+- [Xe Dù](https://www.xedu.com.vn)
 
 ### Y
 
